@@ -4,6 +4,7 @@ This is a repository of the "Manipal Mince" website created using Vue.js and SQL
 
 How do you run this?
 
+
 Step 1: Clone the folder and open it in Visual Studio Code.
 
 Step 2: In frontend/src/resources/db_restaurant.sql, copy the SQL data
